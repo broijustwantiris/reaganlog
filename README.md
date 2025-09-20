@@ -1,5 +1,3 @@
-Of course. Here is the updated `README.md` for the project, now called **`reaganlog`**.
-
 # `reaganlog`
 
 `reaganlog` is a terminal-based system log viewer. It provides a clean, real-time interface for monitoring system logs and includes powerful features like filtering, searching, and saving logs.
